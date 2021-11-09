@@ -14,7 +14,7 @@
 Extensions are a really powerful feature of VSC that allow you to add more functionality to your environment
 Here are a few extensions I recomend
 
-1. Docker
+1. Remote - SSH
 2. ESLint
 3. JavaScript (ES6) code snippets
 4. npm
