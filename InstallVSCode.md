@@ -14,7 +14,7 @@
 Extensions are a really powerful feature of VSC that allow you to add more functionality to your environment
 Here are a few extensions I recomend
 
-1. Remote - SSH
+1. Remote - SSH (DO NOT INSTALL THIS FOR 2022)
 2. ESLint
 3. JavaScript (ES6) code snippets
 4. npm
@@ -24,7 +24,7 @@ Here are a few extensions I recomend
 
 You can also install extensions for your programming language simply by searching its name
 
-# How to setup VSC Remote
+# How to setup VSC Remote (DO NOT DO THIS FOR 2022)
 In order to give everyone a standard environment and simplify the development process, everyone will have access to an account on a server with everything you will need to use pre-installed. You can use the Remote - SSH extension to access files on the remote server with VS Code.
 1. Select the Remote Window Button ![image](https://user-images.githubusercontent.com/3160083/141035664-c0161759-7e55-4925-a2d8-96c3ec8e19f1.png)
 2. Select "Connect Current Window to Host" ![image](https://user-images.githubusercontent.com/3160083/141035878-27af43ba-7a4f-4172-b8a3-d8c99e2fa9c6.png)
