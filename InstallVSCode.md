@@ -17,10 +17,9 @@ Here are a few extensions I recomend
 1. Remote - SSH (DO NOT INSTALL THIS FOR 2022)
 2. ESLint
 3. JavaScript (ES6) code snippets
-4. npm
-5. Prettier
-6. Code Runner
-7. IF you are using WSL, I also recommend Remote Development and Remote - WSL
+4. Prettier
+5. Code Runner
+6. IF you are using WSL, I also recommend Remote Development and Remote - WSL
 
 You can also install extensions for your programming language simply by searching its name
 
